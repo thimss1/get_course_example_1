@@ -1,1 +1,1 @@
-# get_course_example_1
+# git_course_example_1
